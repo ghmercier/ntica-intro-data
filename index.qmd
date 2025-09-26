@@ -99,6 +99,8 @@ This template is a Quarto Website customized for the AIML4OS project, designed t
 
 See [this tutorial](https://aiml4os.github.io/training-material-starting-pack/).
 
+Play it again, Sam.
+
 
 
 
